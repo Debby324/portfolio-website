@@ -10,7 +10,7 @@ const Contact = () => {
           feedback, lease use the form below
         </p>
       </div>
-      <div className="px-1.5 sm:px-6">
+      <div className="px-2 sm:px-6">
         <form className="max-w-2xl mx-auto rounded-xl" action="https://formsubmit.co/deborahadigolo4@gmail.com" method="POST">
         <div className="grid lg:grid-cols-2 sm:grid-cols-1 gap-6 mb-5 ">
           <input

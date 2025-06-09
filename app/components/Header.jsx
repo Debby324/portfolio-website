@@ -13,20 +13,23 @@ const Header = () => {
         I am a <span className="text-[#3a8]">Software Developer</span>
       </h1>
       <p className="max-w-2xl mx-auto text-[17.2px]">
-        I am a software developer from Nigeria with no experience. I am
-        eager to learn and grow in software development industry.
+        I am a software developer from Nigeria with no experience. I am eager to
+        learn and grow in software development industry.
       </p>
       <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
         <a
-          href="#contact"
+          href="/certificate.pdf"
           className="px-10 py-3 border-white rounded-full bg-[#555555] text-white flex items-center gap-2"
+          target="_blank" 
+          rel="noopener noreferrer"
         >
-          Contact me <i className="bx bx-right-arrow-alt w-4"></i>
+          My Certificate<i className="bx bx-download w-4"></i>
         </a>
         <a
-          href="/sample.pdf"
-          download
+          href="/resume.pdf"
           className="px-10 py-3 border rounded-full border-gray-600 flex items-center gap-2 "
+          target="_blank" 
+          rel="noopener noreferrer"
         >
           My resume <i className="bx bx-download w-4"></i>
         </a>
