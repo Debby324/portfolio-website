@@ -23,7 +23,7 @@ const Header = () => {
           target="_blank" 
           rel="noopener noreferrer"
         >
-          My Certificate<i className="bx bx-download w-4"></i>
+          My Certificate<i className="bx bx-show w-4"></i>
         </a>
         <a
           href="/resume.pdf"
@@ -31,7 +31,7 @@ const Header = () => {
           target="_blank" 
           rel="noopener noreferrer"
         >
-          My resume <i className="bx bx-download w-4"></i>
+          My resume <i className="bx bx-show w-4"></i>
         </a>
       </div>
     </div>
