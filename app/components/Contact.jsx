@@ -7,7 +7,7 @@ const Contact = () => {
         <h2 className="text-center text-5xl mb-6">Get in Touch</h2>
         <p className="text-center max-w-2xl mx-auto relative bottom-4 ">
           I'd love to hear from you! if you have any questions, comments, or
-          feedback, lease use the form below
+          feedback, please use the form below
         </p>
       </div>
       <div className="px-2 sm:px-6">

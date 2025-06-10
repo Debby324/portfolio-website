@@ -14,7 +14,7 @@ const Header = () => {
       </h1>
       <p className="max-w-2xl mx-auto text-[17.2px]">
         I am a software developer from Nigeria with no experience. I am eager to
-        learn and grow in software development industry.
+        learn and grow in the software development industry.
       </p>
       <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
         <a

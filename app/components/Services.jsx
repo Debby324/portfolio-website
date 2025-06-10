@@ -36,8 +36,8 @@ const Services = () => {
     <div className="w-full px-[12%] py-10 scroll-mt-20 my-20  bg-gray-100" id="services">
       <h2 className="text-center text-5xl ">My Services</h2>
       <p className="text-center max-w-2xl mx-auto mb-12 lg:my-4 my-3">
-        I am a software developer from lagos with no experience. im
-        eager to learn and grwo in software develoment industry.
+        I am a software developer from lagos with no experience. i'm
+        eager to learn and grow in the software develoment industry.
       </p>
 
 <div className={`grid lg:grid-cols-4 sm:grid-cols-1 md:grid-cols-2 gap-6 my-10  `} >
