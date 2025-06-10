@@ -31,7 +31,7 @@ const About = () => {
               </h6>
               <h3 className="my-4 font-semibold text-gray-700">Languages</h3>
               <p className="text-gray-600 text-sm">
-                HTML, CSS, Javascript, Node.js, Express js
+                HTML, CSS, JavaScript 
               </p>
             </li>
 
@@ -56,7 +56,7 @@ const About = () => {
                 ></i>
               </h6>
               <h3 className="my-4 font-semibold text-gray-700">Projects</h3>
-              <p className="text-gray-700 text-sm">Currently working on it</p>
+              <p className="text-gray-700 text-sm">Built one project </p>
             </li>
           </ul>
 
